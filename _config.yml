@@ -1,38 +1,12 @@
 title: Patrick Molina
-description: IT Student & Aspiring Developer | Passionate about Technology & Innovation
-logo: /assets/img/profile.jpg
+description: IT Student & Developer Portfolio
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
-# Social Links
+# Personal info
+email: your.email@example.com
 github_username: patrickmolina1
 linkedin_username: patrick-molina
-email: your.email@example.com
-
-# SEO
-author: Patrick Molina
-twitter:
-  username: your_twitter_handle
-  card: summary
-
-# Analytics (optional)
-google_analytics: 
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
-permalink: pretty
-
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:name/
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
