@@ -24,6 +24,7 @@ Passionate AI student with a strong foundation in machine learning, data analysi
 **DevOps & Tools:** Docker, Git, GitHub, TensorBoard, Jupyter Notebook, Visual Studio Code  
 **Visualization:** Plotly, Matplotlib, Seaborn, Folium, GeoPandas  
 **Soft Skills:** Analytical Thinking, Problem-Solving, Teamwork, Fast Learning, Communication
+
 ---
 
 ## 💻 Featured Projects
@@ -33,7 +34,7 @@ Deep learning project implementing semantic segmentation using custom U-Net arch
 - **Tech:** Python, PyTorch, ResNet-34, U-Net, TensorBoard, OpenCV
 - **Features:** Custom architecture, multiple loss functions, interactive GUI, data augmentation
 - **Dataset:** Pascal VOC 2012 (21 classes)
-- **GitHub:** https://github.com/patrickmolina1/Computer-Vision---Project-3
+- **GitHub:** [Link](https://github.com/patrickmolina1/Computer-Vision---Project-3)
 - [View Project →](./projects/semantic_segmentation)
 
 ### BERT Sentiment Analysis
