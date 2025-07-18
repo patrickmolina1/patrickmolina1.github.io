@@ -42,7 +42,7 @@ Advanced NLP project using BERT transformer model for sentiment analysis on movi
 - **Tech:** Python, PyTorch, BERT, Transformers, NLTK, Matplotlib
 - **Features:** Fine-tuned BERT model, custom training pipeline, evaluation metrics, interactive prediction
 - **Dataset:** IMDB Movie Reviews (50,000 reviews)
-- **GitHub:** [Add your repository link here]
+- **GitHub:** [Link](https://github.com/chihab4real/sentiment-analysis)
 - [View Project →](./projects/sentiment_analysis)
 
 ### NYC Taxi Big Data Analysis
@@ -50,7 +50,7 @@ Comprehensive big data analysis of NYC taxi trips using Hadoop ecosystem with in
 - **Tech:** Python, Apache Hadoop, Apache Spark, PySpark, Streamlit, Docker, Plotly, Folium
 - **Features:** Distributed data processing, interactive maps, trend analysis, containerized deployment
 - **Dataset:** NYC Taxi Trip Records (millions of records)
-- **GitHub:** [Add your repository link here]
+- **GitHub:** [Link](https://github.com/chihab4real/nyc-taxi-hadoop-analysis)
 - [View Project →](./projects/taxi_nyc_hadoop)
 
 ### Machine Learning Loan Prediction API
@@ -58,7 +58,7 @@ End-to-end ML project with multiple algorithms for loan approval prediction, fea
 - **Tech:** Python, FastAPI, Scikit-learn, Pandas, NumPy, XGBoost, Random Forest
 - **Features:** Multiple ML models, hyperparameter tuning, REST API, model comparison, data preprocessing
 - **Dataset:** Loan approval dataset with financial indicators
-- **GitHub:** [Add your repository link here]
+- **GitHub:** [Link](https://github.com/patrickmolina1/loan_prediction)
 - [View Project →](./projects/loan_prediction)
 
 ---
