@@ -15,7 +15,7 @@ Passionate AI student with a strong foundation in machine learning, data analysi
 
 **Programming Languages:** Python, SQL, R, JAVA, C++  
 **AI/ML Frameworks:** PyTorch, TensorFlow, NumPy, Pandas, Scikit-learn, OpenCV, NLTK, Transformers  
-**Machine Learning:** Random Forest, SVM, Logistic Regression, XGBoost, Gradient Boosting, Hyperparameter Tuning  
+**Machine Learning:** Random Forest, SVM, Logistic Regression, XGBoost, Gradient Boosting, Hyperparameter Tuning, Anomaly Detection  
 **Deep Learning:** U-Net, ResNet, BERT, Semantic Segmentation, NLP, Sentiment Analysis  
 **Big Data Technologies:** Apache Hadoop, Apache Spark, PySpark, Distributed Computing  
 **Web Development:** FastAPI, Streamlit, HTML, CSS, JavaScript, RESTful APIs  
@@ -23,6 +23,7 @@ Passionate AI student with a strong foundation in machine learning, data analysi
 **Databases:** SQL, Data Preprocessing, ETL Pipelines  
 **DevOps & Tools:** Docker, Git, GitHub, TensorBoard, Jupyter Notebook, Visual Studio Code  
 **Visualization:** Plotly, Matplotlib, Seaborn, Folium, GeoPandas  
+**APIs & Integration:** OpenSky Network API, Weather APIs, Real-time Data Processing  
 **Soft Skills:** Analytical Thinking, Problem-Solving, Teamwork, Fast Learning, Communication
 
 ---
@@ -60,6 +61,15 @@ End-to-end ML project with multiple algorithms for loan approval prediction, fea
 - **Dataset:** Loan approval dataset with financial indicators
 - **GitHub:** [Link](https://github.com/patrickmolina1/loan_prediction)
 - [View Project →](./projects/loan_prediction)
+
+### Flight Monitoring & Optimization Dashboard
+Real-time flight tracking and optimization system with interactive dashboard for aviation professionals and analysts.
+- **Tech:** Python, Streamlit, Plotly, Folium, Scikit-learn, OpenSky Network API
+- **Features:** Live flight tracking, route optimization, anomaly detection, interactive maps, professional dashboard
+- **Dataset:** Real-time flight data from OpenSky Network API
+- **Live Demo:** [https://flight-monitore-and-optimization.streamlit.app/](https://flight-monitore-and-optimization.streamlit.app/)
+- **GitHub:** [Link](https://github.com/patrickmolina1/Flight_Monitoring_and_Optimization)
+- [View Project →](./projects/flight_monitoring_and_optimizing)
 
 ---
 
